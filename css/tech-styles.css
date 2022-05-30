@@ -1,0 +1,109 @@
+/*****************************Element Styles*****************/
+
+a {
+  padding-right: 2%;
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #626185;
+}
+
+body{
+  background-image: url('../images/background-crew-desktop.jpg')
+}
+
+h1{
+    margin: 1% auto auto 12%;
+}
+
+h2 {
+  color: white;
+  margin: 2% auto auto 15%;
+}
+
+p{
+  width: 40%;
+  margin-left: 8%;
+}
+
+/*****************************Class Styles*******************/
+.bullet {
+  position: absolute;
+  margin-top: .3%;
+}
+
+.content {
+  margin-top: 5%;
+  color: white;
+}
+
+.divider {
+  width: 30%;
+  position: relative;
+  right: 15%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.headshot{
+  width: 3rem;
+}
+
+.headshot:hover{
+  width: 5rem;
+}
+
+.info {
+  white-space: nowrap;
+  font-family: 'Ubuntu Mono';
+  font-weight: lighter;
+  margin-bottom: 1rem;
+  padding-right: 3rem;
+}
+
+.job{
+  margin: 5% auto auto 15%;
+  font-weight: light;
+}
+
+.links{
+  margin-left: 8%;
+}
+
+.nums {
+  font-weight: bold;
+  padding-right: 1%;
+}
+
+.nav {
+  padding: 2%;
+  position: relative;
+  left: 45%;
+  background: rgba(225, 225, 225, .8);
+  margin-top: 2%;
+}
+
+.page {
+  color: #9797a4;
+}
+
+.pagenum{
+  margin: 6% auto 0 12%;
+}
+
+.planet {
+  float: right;
+  margin: 0 5% 10% 15%;
+  bottom: 10%;
+}
+
+.topline {
+  width: 20%;
+  position: absolute;
+  margin-left: 4%;
+  margin-top: 1.5%;
+}

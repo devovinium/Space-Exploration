@@ -1,0 +1,79 @@
+/***********************************Element Styles***************************/
+a{
+padding-right: 2%;
+text-decoration: none;
+color: white;
+}
+
+a:hover{
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #626185;
+}
+
+body{
+  background-image: url(../images/background-home-desktop.jpg);
+  background-position: auto;
+}
+
+h1{
+  font-size: 6rem;
+  font-family: 'Ubunto Mono';
+}
+
+h3{
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+hr{
+  width: 20%;
+  position: absolute;
+  align: left;
+  margin-left: 4%;
+  margin-top: 1.5%;
+}
+
+img{
+  position: absolute;
+  margin-top: .3%;
+}
+
+p{
+  width: 40%;
+}
+
+/********************************Class Styles******************************/
+.content{
+  margin: 10% auto auto 20%;
+  color: white;
+}
+
+.circle{
+  position: absolute;
+  left: 65%;
+  bottom: 30%;
+  border-radius: 50%;
+  background-color: white;
+  height: 15rem;
+  width: 15rem;
+}
+
+.explore{
+  position: relative;
+  top: 35%;
+  color: black;
+  text-align: center;
+}
+
+.nums{
+  font-weight: bold;
+  padding-right: 1%;
+}
+
+.nav{
+  padding: 2%;
+  position: relative;
+  left: 45%;
+  background: rgba(225, 225, 225, .8);
+  margin-top: 2%;
+}

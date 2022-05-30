@@ -1,0 +1,102 @@
+body {
+  background-image: url(../images/background-destination-desktop.jpg);
+}
+
+a {
+  padding-right: 2%;
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #626185;
+}
+
+h2 {
+  color: white;
+  margin: 2% auto auto 15%;
+}
+
+td {
+  font-family: serif;
+  font-weight: bold;
+  text-align: left;
+  padding: 2%;
+}
+
+p {
+  padding-right: 30%;
+}
+
+/*****************************Class Styles*******************************/
+.bullet {
+  position: absolute;
+  margin-top: .3%;
+}
+
+.center {
+  width: 40%;
+}
+
+.content {
+  margin-top: 5%;
+  color: white;
+}
+
+.divider {
+  width: 30%;
+  position: relative;
+  right: 15%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.info {
+  white-space: nowrap;
+  font-family: 'Ubuntu Mono';
+  font-weight: lighter;
+  margin-bottom: 1rem;
+  padding-right: 3rem;
+}
+
+.locations {
+  padding-right: 2%;
+  color: white;
+}
+
+.locations:hover {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #626185;
+}
+
+.nums {
+  font-weight: bold;
+  padding-right: 1%;
+}
+
+.nav {
+  padding: 2%;
+  position: relative;
+  left: 45%;
+  background: rgba(225, 225, 225, .8);
+  margin-top: 2%;
+}
+
+.page {
+  color: #9797a4;
+}
+
+.planet {
+  float: left;
+  margin: 0 5% auto 15%;
+}
+
+.topline {
+  width: 20%;
+  position: absolute;
+  margin-left: 4%;
+  margin-top: 1.5%;
+}
